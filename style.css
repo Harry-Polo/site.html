@@ -1,0 +1,36 @@
+h1
+{
+     color: black; 
+ }
+
+ body 
+ {
+     background-color: grey;
+ } 
+
+ #carte 
+ {
+     width: 800px;
+     margin: 0 auto ;
+     background-color:white;
+     text-align: center;
+     align-content: center;
+ }
+
+ h1
+{
+     color: black; 
+ }
+
+ body 
+ {
+     background-color: grey;
+ } 
+ #cartes
+ {
+     width: 800px;
+     margin: 0 auto ;
+     background-color:white;
+     text-align: center;
+     align-content: center;
+ }
